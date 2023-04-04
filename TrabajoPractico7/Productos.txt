@@ -1,0 +1,3 @@
+1112	Leche	Larga Vida 1l	234.75	100
+232	Café	Torrado 170g	987.99	50
+3121	Azucar	Blanca 1kg	341.22	60			
